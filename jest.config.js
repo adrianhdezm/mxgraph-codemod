@@ -1,5 +1,5 @@
 module.exports = {
   verbose: true,
-  rootDir: 'src/__tests__',
+  rootDir: 'tests',
   testPathIgnorePatterns: ['<rootDir>/fixtures']
 };
